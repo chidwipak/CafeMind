@@ -6,7 +6,7 @@
 
 > [!NOTE]
 > **Development Context**
-> This project was developed in **April 2025** on a remote SSH college system provided for research and coursework. All development, training, and testing was conducted on these remote servers, which is why the project is being pushed to GitHub now (January 2026) rather than during the original development period.
+> This project was developed in **April 2025**,The project is being pushed to GitHub now (January 2026) rather than during the original development period.
 >
 > **Why Now?**
 > As I'm applying for internships and research positions, I'm consolidating my work from various remote systems into a public portfolio on GitHub. This project represents authentic work completed during my academic research, now being shared for professional opportunities.
